@@ -1,7 +1,7 @@
-# 🧠 Nykaa Text Analysis Project
+# 🧠 Nykaa Text Analysis 
 
 ## 📘 Overview
-This project performs **text analysis on customer reviews** from the **Nykaa app** to understand user opinions, identify key sentiments, and discover common keywords that influence customer satisfaction.
+This project performs **text analysis on customer reviews** from the **Nykaa instagram page** to understand user opinions, identify key sentiments, and discover common keywords that influence customer satisfaction.
 
 Using **Natural Language Processing (NLP)** and **Python**, the notebook cleans, processes, and analyzes review text data to generate meaningful insights that can help businesses make data-driven decisions.
 
@@ -27,7 +27,7 @@ Using **Natural Language Processing (NLP)** and **Python**, the notebook cleans,
 ---
 
 ## ⚙️ How It Works
-1. **Import Dataset** – Load the review dataset (Nykaa app reviews).
+1. **Import Dataset** – Load the review dataset.
 2. **Preprocess Text** – Clean text by removing punctuation, numbers, and stopwords.
 3. **Tokenize Words** – Break sentences into individual words.
 4. **Generate Word Frequency** – Find and visualize most common words.
@@ -41,12 +41,4 @@ Using **Natural Language Processing (NLP)** and **Python**, the notebook cleans,
 - Most common negative keywords: *“worst”, “bad”, “delayed”, “broken”*  
 - Sentiment Distribution: **65% Positive**, **25% Neutral**, **10% Negative**
 
-*(These are example results — actual values depend on dataset.)*
 
----
-
-## 🪜 How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/Nykaa-Text-Analysis.git
-   cd Nykaa-Text-Analysis

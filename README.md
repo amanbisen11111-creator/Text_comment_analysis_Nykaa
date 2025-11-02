@@ -39,6 +39,6 @@ Using **Natural Language Processing (NLP)** and **Python**, the notebook cleans,
 ## 📊 Example Insights
 - Most common positive keywords: *“love”, “amazing”, “great”, “product”*  
 - Most common negative keywords: *“worst”, “bad”, “delayed”, “broken”*  
-- Sentiment Distribution: **65% Positive**, **25% Neutral**, **10% Negative**
+- Sentiment Distribution: **12.7% Positive**, **75.2% Neutral**, **12.1% Negative**
 
 
